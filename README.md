@@ -43,7 +43,7 @@ These embeddings were then used as input to the **Keras Embedding Layer**.
 ## Sentiment Analysis Models
 
 ### A. VADER (NLTK)
-**VADER** is a rule-based sentiment analysis tool that calculates polarity scores (negative, neutral, and positive). VADER is particularly effective for short, informal texts like product reviews.
+**VADER** is a rule-based sentiment analysis tool that calculates polarity scores (negative, neutral, and positive). VADER is particularly effective for short, informal texts like **product reviews**.
 
 **Key Features**:
 - **Bag-of-words** approach: Each word is assigned a score, and the total sentiment score is computed by summing individual word scores.
